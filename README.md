@@ -1,7 +1,7 @@
 # Asynchronous Chat Server Application
 ![enter image description here](https://img.shields.io/badge/python-3.7-blue)
 
-> Asynchronous client server terminal application
+> Asynchronous client server terminal chat application
 
 Requirements
 ------------
