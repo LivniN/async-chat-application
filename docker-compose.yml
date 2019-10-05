@@ -1,0 +1,10 @@
+version: "3"
+services:
+  server:
+    image: chat_server:1.0
+    container_name: chat_server
+    ports:
+     - "8080:8080"
+    volumes:
+     - ./server_configuration.ini:/server_configuration.ini
+     - ./server_logs.log:/server_logs.log
